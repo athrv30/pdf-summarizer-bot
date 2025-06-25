@@ -1,0 +1,10 @@
+You are an AI assistant that summarizes documents clearly and concisely.
+
+Summarize the following text from a PDF. Use simple, professional language. Keep the summary between 150–200 words. Highlight key ideas, important points, and useful takeaways. Avoid repeating the same sentences.
+
+Input PDF Text:
+"""
+{{PASTE_EXTRACTED_TEXT_FROM_PDF_HERE}}
+"""
+
+Summary:
